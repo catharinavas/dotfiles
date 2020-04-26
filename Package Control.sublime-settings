@@ -1,16 +1,32 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"All Autocomplete",
+		"ayu",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Emmet",
+		"ERB Snippets",
+		"FileIcons",
+		"Git",
+		"GitGutter",
+		"Highlight Dodgy Chars",
+		"HTML Page Snippets",
+		"Package Control",
+		"SCSS",
+		"Select Quoted",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
 }
